@@ -1,0 +1,28 @@
+URL: http://localhost:8082/findAll?page=1&size=2
+
+OutPut: 
+
+{
+"content": [
+{
+"acctOfferId": 3,
+"acctNumber": "44576",
+"clientId": 23323,
+"createdBy": "whoever"
+},
+{
+"acctOfferId": 4,
+"acctNumber": "6765757",
+"clientId": 6575,
+"createdBy": "sdsdfq"
+}
+],
+"last": false,
+"totalElements": 6,
+"totalPages": 3,
+"size": 2,
+"number": 1,
+"sort": null,
+"first": false,
+"numberOfElements": 2
+}
